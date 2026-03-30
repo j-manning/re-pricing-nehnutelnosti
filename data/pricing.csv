@@ -15,3 +15,7 @@ scrape_date,platform,market,currency,tier_name,fee_amount,fee_period,prop_value_
 2026-03-23,nehnutelnosti,SK,EUR,Basic+,49,per_listing,,,,Incl. VAT
 2026-03-23,nehnutelnosti,SK,EUR,Optimum,69,per_listing,,,,Incl. VAT
 2026-03-23,nehnutelnosti,SK,EUR,Complete,99,per_listing,,,,Incl. VAT
+2026-03-30,nehnutelnosti,SK,EUR,Basic,30,per_listing,,,,Incl. VAT
+2026-03-30,nehnutelnosti,SK,EUR,Basic+,49,per_listing,,,,Incl. VAT
+2026-03-30,nehnutelnosti,SK,EUR,Optimum,69,per_listing,,,,Incl. VAT
+2026-03-30,nehnutelnosti,SK,EUR,Complete,99,per_listing,,,,Incl. VAT
